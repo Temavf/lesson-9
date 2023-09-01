@@ -1,4 +1,3 @@
-Script started on 2023-06-07 18:57:08+03:00 [TERM="tmux-256color" TTY="/dev/pts/6" COLUMNS="190" LINES="48"]
 [?2004h[01;32mzoid@npc[00m:[01;34m~/projects/otus/2023-04-linux/09[00m$ 
 [?2004l[?2004h[01;32mzoid@npc[00m:[01;34m~/projects/otus/2023-04-linux/09[00m$ 
 [?2004l[?2004h[01;32mzoid@npc[00m:[01;34m~/projects/otus/2023-04-linux/09[00m$ 
@@ -535,7 +534,7 @@ tcp   LISTEN 0      511          0.0.0.0:80        0.0.0.0:*    users:(("[01;31
 [root@centos8s conf]# # The End!
 [root@centos8s conf]# logout
 [vagrant@centos8s ~]$ logout
-[?2004h[01;32mzoid@npc[00m:[01;34m~/projects/otus/2023-04-linux/09[00m$ [?2004l
+[?2004h[01;32mzoid@npc[00m:[01;34m~/projects/otus/2023-04-linux/09[00m$ [?2004l
 exit
 
 Script done on 2023-06-07 19:13:50+03:00 [COMMAND_EXIT_CODE="0"]
